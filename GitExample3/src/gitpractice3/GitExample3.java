@@ -7,6 +7,7 @@ public class GitExample3 {
 		System.out.println("3");
 		System.out.println("4");
 		System.out.println("5");
+		System.out.println("That's all the numbers til 5");
 
 	}
 
